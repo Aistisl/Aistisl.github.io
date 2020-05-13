@@ -96,12 +96,12 @@ author:
   name             : "Aistis Lukosevicius"
   avatar           : "/images/profile.png"
   bio              : "Junior Data Scientist"
-  location         : "Lithuania. Kaunas"
+  location         : "Lithuania, Kaunas"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: "mailto:aistisl@gmail.com"
+      url: "mailto:aistisl@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
