@@ -5,6 +5,4 @@ header:
   image: "/images/about_header.jpg"
 ---
 
-In my past job experiences i was always interested in data and it's capabilities, i used data for productivity, planning, motivation and entertainment . After deep dive in data analytics course i was fascinated by huge abilities of this field and decided to pursue this career path to understand, utilize and learn more about various data around us.
-
-At the moment i'm trying to create my portfolio so if you have any practical tasks or need help with simple data analysis please do not hesitate to ask!
+Hi! My name is Aistis and at the moment I'm trying to become professional in a software testing area also I'm a big fan of data science and my biggest dream is to merge these two fields into something that creates better, more creative and faster ways to improve quality of our software and everyday lifes.
